@@ -3,7 +3,7 @@
 Documenting my journey building a home lab for CCNA and Security+ prep.
 
 ## Current Setup
-- Host: [your laptop specs]
+- Host: Lenovo Thinkpad T480s w/ RAM Upgrade
 - Hypervisor: VirtualBox (free)
 - Network simulator: Cisco Packet Tracer
 - Practice platform: TryHackMe
