@@ -1,1 +1,21 @@
-# homelab-notes
+# Home Lab Journal
+
+Documenting my journey building a home lab for CCNA and Security+ prep.
+
+## Current Setup
+- Host: [your laptop specs]
+- Hypervisor: VirtualBox (free)
+- Network simulator: Cisco Packet Tracer
+- Practice platform: TryHackMe
+
+## Goals
+- [ ] Build basic LAN in Packet Tracer (subnetting practice)
+- [ ] Set up Windows Server 2022 VM for Active Directory
+- [ ] Configure pfSense firewall
+- [ ] Complete TryHackMe "Pre-Security" path
+- [ ] Document every step
+
+## Progress Log
+| Date | What I Did | What I Learned |
+|------|------------|----------------|
+| [date] | Installed VirtualBox, first Windows VM | VM networking modes (NAT vs Bridged) |
